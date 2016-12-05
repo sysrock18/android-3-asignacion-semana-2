@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Datos</string>
+    <string name="form_nombre">Nombre Completo</string>
+    <string name="form_fecha">Seleccione Fecha</string>
+    <string name="form_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="form_telefono">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripcion">Descripción Contacto</string>
+    <string name="title_fecha">Fecha de Nacimiento</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="title_confirmar_datos">Confirmar Datos</string>
+    <string name="btn_editar_datos">Editar Datos</string>
+</resources>
